@@ -1,0 +1,26 @@
+@media (max-width: 550px) {
+  .image-header {
+    background-image: url("http://xedichvudulichhue.com/wp-content/uploads/2019/11/1485166029-14851553373618-3_02.jpg");
+    object-fit: cover;
+    height: 250px;
+  }
+
+  .fill {
+    background-color:inherit;
+  }
+  .image-content {
+    background-color: #00000070;
+  }
+  .image-content .hotline {
+    color: #fff;
+    margin-top: 260px;
+    line-height: 30px;
+  }
+  .image-content h4 {
+    font-size: 25pt;
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 0.4rem;
+  }
+}
+
